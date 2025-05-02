@@ -74,21 +74,6 @@ The **Tamil Nadu Police Canteen App** is a **mobile application** built using **
 
 ###### flutter run
 
-📈 Project Structure
-
-tamil-nadu-police-canteen-app/
-│
-├── lib/
-│ ├── models/ # Data models (e.g., User, Product, Order)
-│ ├── screens/ # App screens (e.g., Home, Cart, Admin Panel)
-│ ├── services/ # Logic for MongoDB connections, payment integration
-│ ├── widgets/ # Reusable UI components
-│ └── main.dart # Entry point
-│
-├── assets/ # Images, icons, etc.
-├── pubspec.yaml # Flutter dependencies
-└── README.md # This file
-
 ⚡ Contributing
 We welcome contributions! If you have ideas to improve this project, feel free to fork the repo and submit a pull request. Here are a few ways you can contribute:
 
@@ -111,5 +96,3 @@ Improving documentation
 
 ---
 
-🔐 License
-This project is licensed under the MIT License – see the LICENSE file for details.
