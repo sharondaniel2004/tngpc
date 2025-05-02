@@ -66,7 +66,7 @@ The **Tamil Nadu Police Canteen App** is a **mobile application** built using **
 
 2. Install dependencies:
 
-###### flutter pub get
+- flutter pub get
 
 3. Set up your MongoDB database and update the connection details in the lib/services/db_service.dart file.
 
