@@ -5,7 +5,6 @@
 The **Tamil Nadu Police Canteen App** is a **mobile application** built using **Flutter (Dart)** and **MongoDB**, designed to simplify and modernize the grocery shopping experience for Tamil Nadu Police personnel. The app offers a seamless online shopping experience, complete with real-time order updates, secure payments, and an intuitive admin panel for efficient canteen management.
 
 ---
-j
 ## 📱 Features
 
 ### **For Users**
